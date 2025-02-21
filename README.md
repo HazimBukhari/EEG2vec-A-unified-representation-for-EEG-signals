@@ -1,1 +1,1 @@
-# Unified-EEG-represntation
+# Unified-EEG-representation
