@@ -12,7 +12,7 @@
 - [ ] Results analysis
 
 # Data sources:  
-- [x] [TUH](https://isip.piconepress.com/projects/nedc/html/tuh_eeg/)
+- [x] [TUH](https://isip.piconepress.com/projects/nedc/html/tuh_eeg/) Contact me access
   ## Motor imagery
 - [ ] [Psychological and Cognitive Factors in Motor Imagery Brain Computer Interfaces](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/Z7ZVOD)
 - [ ] [A large EEG database with users’ profile information for motor imagery brain-computer interface research](https://www.sciencedirect.com/science/article/pii/S093336572300252X)
