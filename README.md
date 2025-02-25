@@ -4,6 +4,8 @@
 - [ ] Train code
 - [ ] eval code
 - [ ] base model
+- [ ] dataloader
+- [ ] supporting functioned (utils)
 - [ ] config
 - [x] Data collection
 - [ ] Experiments
