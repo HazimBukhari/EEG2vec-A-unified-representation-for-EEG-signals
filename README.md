@@ -3,6 +3,7 @@
 # TODO:  
 - [ ] Train code
 - [ ] eval code
+- [ ] base model
 - [ ] config
 - [x] Data collection
 - [ ] Experiments
