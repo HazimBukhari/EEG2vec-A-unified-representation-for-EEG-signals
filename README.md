@@ -12,7 +12,7 @@
 - [ ] Results analysis
 
 # Data sources:  
-- [x] [TUH](https://isip.piconepress.com/projects/nedc/html/tuh_eeg/) Contact me for access
+- [x] [TUH](https://isip.piconepress.com/projects/nedc/html/tuh_eeg/) Contact Hazim for access or fill the form (whichever is easier for you)
   ## Motor imagery
 - [ ] [Psychological and Cognitive Factors in Motor Imagery Brain Computer Interfaces](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/Z7ZVOD)
 - [ ] [A large EEG database with users’ profile information for motor imagery brain-computer interface research](https://www.sciencedirect.com/science/article/pii/S093336572300252X)
@@ -39,8 +39,8 @@
 
 # dataloader
 - [ ] Implement cleaning
-  - [ ] remove power grid noise
-  - [ ] remove cardiac noise (Ask Michele for more implementation details)
+- [ ] remove power grid noise
+- [ ] remove cardiac noise (Ask Michele for more implementation details)
 - [ ] instance normalization 
 - [ ] Implement augmentations
 - [ ] Implement segmentation of input (overlapping vs non-overlapping)
