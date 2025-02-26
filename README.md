@@ -42,3 +42,9 @@
 
 # Extras
 - [Notebook](https://github.com/BRomans/OpenCortex/blob/main/notebooks/P300_Epoching.ipynb)
+
+# Notes
+- TUH dataset
+  - Channels: max 31, but could go to 20 (check which channels are present in all data point)
+  - Sampling rate: 250, 256, 400, 512 Hz (resample them all to 250Hz)
+  - Unique subjects: 10874
