@@ -32,6 +32,21 @@
 - [ ] TBA
 - [ ] TBA
 
+# base model
+- [ ] ~~steal~~ get inspired by [wav2vec2](https://github.com/facebookresearch/fairseq/blob/main/fairseq/models/wav2vec/wav2vec2.py) implementation
+- [ ] ~~steal~~ get further inspiration by [wavLM](https://github.com/microsoft/unilm/blob/master/wavlm/WavLM.py) implementation
+- [ ] check [moment](https://github.com/moment-timeseries-foundation-model/moment) foundation models for time-series data
+
+# dataloader
+- [ ] Implement cleaning
+  - [ ] remove power grid noise
+  - [ ] remove cardiac noise (Ask Michele for more implementation details)
+- [ ] instance normalization 
+- [ ] Implement augmentations
+- [ ] Implement segmentation of input (overlapping vs non-overlapping)
+- [ ] Implementing wavelet and stft feature extraction
+- [ ] If feeling fancy play with GPUdirect by Nvidia
+
 # Experiments:
 | Expermints     | Task1 results | Task2 results   | Task3 results | avg | 
 |----------------|---------------|---------------|----------------|-----------|
@@ -47,4 +62,6 @@
 - TUH dataset
   - Channels: max 31, but could go to 20 (check which channels are present in all data point)
   - Sampling rate: 250, 256, 400, 512 Hz (resample them all to 250Hz)
-  - Unique subjects: 10874
+  - Unique subjects: 10874 (think about splitting the data subject-wise)
+  - No mention of any preprocessing (might need to remove some noise)
+- SLEEP AND EAT for the love of god
