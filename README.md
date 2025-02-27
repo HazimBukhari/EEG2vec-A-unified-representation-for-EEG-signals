@@ -16,17 +16,17 @@
 # Data sources:  
 - [x] [TUH](https://isip.piconepress.com/projects/nedc/html/tuh_eeg/) Contact Hazim for access or fill the form (whichever is easier for you)
   ## Motor imagery 
-- [x] [Psychological and Cognitive Factors in Motor Imagery Brain Computer Interfaces](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.634748/full) [Download](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/Z7ZVOD)
-- [x] [A large EEG database with users’ profile information for motor imagery brain-computer interface research](https://www.nature.com/articles/s41597-023-02445-z) [Downlaod](https://zenodo.org/records/8089820)
-- [ ] [An in-depth survey on Deep Learning-based Motor Imagery Electroencephalogram (EEG) classification](https://www.sciencedirect.com/science/article/pii/S093336572300252X) check table 3 [Download](https://www.bbci.de/competition/) (Did not download. too small)
+- [x] [Psychological and Cognitive Factors in Motor Imagery Brain Computer Interfaces](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2021.634748/full) | [Download](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/Z7ZVOD)
+- [x] [A large EEG database with users’ profile information for motor imagery brain-computer interface research](https://www.nature.com/articles/s41597-023-02445-z) | [Downlaod](https://zenodo.org/records/8089820)
+- [ ] [An in-depth survey on Deep Learning-based Motor Imagery Electroencephalogram (EEG) classification](https://www.sciencedirect.com/science/article/pii/S093336572300252X) check table 3 | [Download](https://www.bbci.de/competition/) (Did not download. too small)
   ## Brain-to-speech
-- [x] [Fourteen-channel EEG with Imagined Speech (FEIS) dataset](https://zenodo.org/records/3554128)
+- [x] Fourteen-channel EEG with Imagined Speech (FEIS) dataset | [Downlaod](https://zenodo.org/records/3554128) | [Github](https://github.com/scottwellington/FEIS)
   ## SSVEP
-- [x] [An open dataset for human SSVEPs in the frequency range of 1-60 Hz](https://www.nature.com/articles/s41597-024-03023-7) [Downlaod](https://figshare.com/articles/dataset/An_open_dataset_for_human_SSVEPs_in_the_frequency_range_of_1-60_Hz/23641017)
+- [x] [An open dataset for human SSVEPs in the frequency range of 1-60 Hz](https://www.nature.com/articles/s41597-024-03023-7) | [Downlaod](https://figshare.com/articles/dataset/An_open_dataset_for_human_SSVEPs_in_the_frequency_range_of_1-60_Hz/23641017)
   ## P300 
-- [x] [Brain Invaders calibration-less P300-based BCI using dry EEG electrodes Dataset (bi2014a)](https://hal.science/hal-02171575) [Download](https://zenodo.org/records/3266223) [Github](https://github.com/plcrodrigues/py.BI.EEG.2014a-GIPSA)
-- [x] [Brain Invaders Adaptive versus Non-Adaptive P300 Brain-Computer Interface dataset](https://hal.archives-ouvertes.fr/hal-02103098) [Doownload](https://zenodo.org/records/2669187) [Github](https://github.com/plcrodrigues/py.BI.EEG.2013-GIPSA)
-- [x] [Building Brain Invaders: EEG data of an experimental validation](https://hal.archives-ouvertes.fr/hal-02126068) [Download](https://zenodo.org/records/2649069) [Github](https://github.com/plcrodrigues/py.BI.EEG.2012-GIPSA)
+- [x] [Brain Invaders calibration-less P300-based BCI using dry EEG electrodes Dataset (bi2014a)](https://hal.science/hal-02171575) | [Download](https://zenodo.org/records/3266223) | [Github](https://github.com/plcrodrigues/py.BI.EEG.2014a-GIPSA)
+- [x] [Brain Invaders Adaptive versus Non-Adaptive P300 Brain-Computer Interface dataset](https://hal.archives-ouvertes.fr/hal-02103098) | [Doownload](https://zenodo.org/records/2669187) | [Github](https://github.com/plcrodrigues/py.BI.EEG.2013-GIPSA)
+- [x] [Building Brain Invaders: EEG data of an experimental validation](https://hal.archives-ouvertes.fr/hal-02126068) | [Download](https://zenodo.org/records/2649069) | [Github](https://github.com/plcrodrigues/py.BI.EEG.2012-GIPSA)
 
 # Baselines
 - [ ] EEGformer (unofficial implementation)
@@ -93,7 +93,7 @@
 
 -  Fourteen-channel EEG with Imagined Speech (FEIS) dataset
   - Channels: 14 (F3 FC5 AF3 F7 T7 P7 O1 O2 P8 T8 F8 AF4 FC6 F4)
-  - Sampling rate: 1000
+  - Sampling rate: TBA
   - Unique subjects: 21
   - Preprocess: None mentioned (recheck again)
   - Measuring device: Neuroscan Synamps2 
@@ -102,7 +102,7 @@
 
 -  An open dataset for human SSVEPs in the frequency range of 1-60 Hz dataset
   - Channels: 64 ( international 10/20 system), with the reference electrode at the vertex and the electrode impedance always kept below 20 K ohm
-  - Sampling rate: TBA
+  - Sampling rate: 1000
   - Unique subjects: 30
   - Preprocess:  A built-in 50 Hz notch filter was used to eliminate power line noise, and the band-pass filter was set from 0.1 Hz to 100 Hz to preserve wideband spectral characteristics. These filtering procedures were already incorporated during the data acquisition process.
   - Downstream tasks:
