@@ -14,17 +14,17 @@
 # Data sources:  
 - [x] [TUH](https://isip.piconepress.com/projects/nedc/html/tuh_eeg/) Contact Hazim for access or fill the form (whichever is easier for you)
   ## Motor imagery
-- [ ] [Psychological and Cognitive Factors in Motor Imagery Brain Computer Interfaces](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/Z7ZVOD)
-- [ ] [A large EEG database with users’ profile information for motor imagery brain-computer interface research](https://www.sciencedirect.com/science/article/pii/S093336572300252X)
-- [ ] [An in-depth survey on Deep Learning-based Motor Imagery Electroencephalogram (EEG) classification](https://www.sciencedirect.com/science/article/pii/S093336572300252X) check table 3
+- [x] [Psychological and Cognitive Factors in Motor Imagery Brain Computer Interfaces](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/Z7ZVOD)
+- [x] [A large EEG database with users’ profile information for motor imagery brain-computer interface research](https://www.nature.com/articles/s41597-023-02445-z) [Downlaod](https://zenodo.org/records/8089820)
+- [ ] [An in-depth survey on Deep Learning-based Motor Imagery Electroencephalogram (EEG) classification](https://www.sciencedirect.com/science/article/pii/S093336572300252X) check table 3 [Download](https://www.bbci.de/competition/) (Did not download. too small)
   ## Brain-to-speech
-- [ ] [Fourteen-channel EEG with Imagined Speech (FEIS) dataset](https://zenodo.org/records/3554128)
+- [x] [Fourteen-channel EEG with Imagined Speech (FEIS) dataset](https://zenodo.org/records/3554128)
   ## SSVEP
-- [ ] [An open dataset for human SSVEPs in the frequency range of 1-60 Hz](https://www.nature.com/articles/s41597-024-03023-7)
+- [x] [An open dataset for human SSVEPs in the frequency range of 1-60 Hz](https://www.nature.com/articles/s41597-024-03023-7) [Downlaod](https://figshare.com/articles/dataset/An_open_dataset_for_human_SSVEPs_in_the_frequency_range_of_1-60_Hz/23641017)
   ## P300
-- [ ] [Brain Invaders calibration-less P300-based BCI using dry EEG electrodes Dataset (bi2014a)](https://zenodo.org/records/3266223)
-- [ ] [Brain Invaders Adaptive versus Non-Adaptive P300 Brain-Computer Interface dataset](https://zenodo.org/records/2669187)
-- [ ] [Building Brain Invaders: EEG data of an experimental validation](https://zenodo.org/records/2649069)
+- [x] [Brain Invaders calibration-less P300-based BCI using dry EEG electrodes Dataset (bi2014a)](https://zenodo.org/records/3266223)
+- [x] [Brain Invaders Adaptive versus Non-Adaptive P300 Brain-Computer Interface dataset](https://zenodo.org/records/2669187)
+- [x] [Building Brain Invaders: EEG data of an experimental validation](https://zenodo.org/records/2649069)
 
 # Baselines
 - [ ] EEGformer (unofficial implementation)
