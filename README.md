@@ -61,7 +61,7 @@
 - [Notebook](https://github.com/BRomans/OpenCortex/blob/main/notebooks/P300_Epoching.ipynb)
 
 # Datasets Descriptions
-- TUH dataset
+### TUH dataset
   - Channels: max 31, but could go to 20 (check which channels are present in all data point)
   - Sampling rate: 250, 256, 400, 512 Hz (resample them all to 250Hz)
   - Unique subjects: 10874 (think about splitting the data subject-wise)
@@ -73,7 +73,7 @@
     -  Seizure (start time, stop , channel & seizure type)
     -  Slowing event detection
 
--  Psychological and Cognitive Factors in Motor Imagery Brain-Computer Interfaces dataset
+### Psychological and Cognitive Factors in Motor Imagery Brain-Computer Interfaces dataset
   - Channels: 16 (F3, Fz, F4, FC1, FC5, FC2, FC6, C3, Cz, C4, CP1, CP5, CP2, CP6, T7, and T8) A reference electrode was set on the right earlobe and a ground electrode on AFz
   - Sampling rate: 250 Hz
   - Unique subjects: 55 (think about splitting the data subject-wise)
@@ -81,7 +81,7 @@
   - Downstream tasks:
     -  Motor-imagery BCIs (MI-BCI): mental imagination of body movements
   
--  A large EEG database with users’ profile information for motor imagery brain-computer interface research dataset
+### A large EEG database with users’ profile information for motor imagery brain-computer interface research dataset
   - Channels: 27 (Fz, FCz, Cz, CPz, Pz, C1, C3, C5, C2, C4, C6, F4, FC2, FC4, FC6, CP2, CP4, CP6, P4, F3, FC1, FC3, FC5, CP1, CP3, CP5, P3) referenced to the left earlobe, the ground electrode is placed in FPz position
   - Sampling rate: 512
   - Unique subjects: 87
@@ -91,7 +91,7 @@
   - Downstream tasks:
     -  Motor-imagery BCIs (MI-BCI): mental imagination of body movements
 
--  Fourteen-channel EEG with Imagined Speech (FEIS) dataset
+### Fourteen-channel EEG with Imagined Speech (FEIS) dataset
   - Channels: 14 (F3 FC5 AF3 F7 T7 P7 O1 O2 P8 T8 F8 AF4 FC6 F4)
   - Sampling rate: TBA
   - Unique subjects: 21
@@ -100,7 +100,7 @@
   - Downstream tasks:
     - phoneme classification
 
--  An open dataset for human SSVEPs in the frequency range of 1-60 Hz dataset
+### An open dataset for human SSVEPs in the frequency range of 1-60 Hz dataset
   - Channels: 64 ( international 10/20 system), with the reference electrode at the vertex and the electrode impedance always kept below 20 K ohm
   - Sampling rate: 1000
   - Unique subjects: 30
@@ -108,7 +108,7 @@
   - Downstream tasks:
     - Good question my man
 
--  Brain Invaders calibration-less P300-based BCI using dry EEG electrodes Dataset (bi2014a) dataset
+### Brain Invaders calibration-less P300-based BCI using dry EEG electrodes Dataset (bi2014a) dataset
   - Channels: 16 (Fp1, Fp2, F5, AFZ, F6, T7, Cz, T8, P7, P3 , PZ, P4 , P8, O1, Oz, O2) with reference electrode on the right earlobe and ground electrode at the FZ scalp location.  10-10 international system.
   - Sampling rate: 512
   - Unique subjects: 71
@@ -117,7 +117,7 @@
   - Downstream tasks:
     -  P300 36 symbols (1 Target, 35 Non-Target)
 
--  Brain Invaders Adaptive versus Non-Adaptive P300 Brain-Computer Interface dataset
+### Brain Invaders Adaptive versus Non-Adaptive P300 Brain-Computer Interface dataset
   - Channels: 16 (re FP1, FP2, F5, AFZ, F6, T7, CZ, T8, P7, P3, PZ, P4, P8, O1, OZ and O2) The reference was placed on the left earlobe and the ground at the FZ scalp location. 10-20 international system
   - Sampling rate: 512
   - Unique subjects: 24
@@ -126,7 +126,7 @@
   - Downstream tasks:
     - P300 36 symbols (1 Target, 35 Non-Target)
 
--  Building Brain Invaders: EEG data of an experimental validation dataset
+### Building Brain Invaders: EEG data of an experimental validation dataset
   - Channels: 16 (e F7, F3, F4, F8, T7, C3, CZ, C4, T8, P7, P3, PZ, P4, P8, O1 and O2). The ground was placed at the FZ scalp location. 10-20 international system.
   - Sampling rate: 128
   - Unique subjects: 25
