@@ -47,5 +47,7 @@ This project explores an end-to-end masked prediction, a self-supervised foundat
 - [x] HuBERT experiments:
   - [x] MultiChannel (17 channels input)
   - [x] superimposing of the signal (summing channels to 1 channel)
-      
+
+## Acknowledgements
+
 The project is completed as a part of [CMU 11-785: Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S25/index.html).
