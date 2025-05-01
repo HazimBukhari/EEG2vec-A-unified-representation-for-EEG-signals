@@ -1,6 +1,6 @@
 # EEG2VEC: A unified representation for EEG signals  
 
-This project explores xxx 
+This project explores an end-to-end masked prediction, a self-supervised foundation model for EEG that learns unified representations transferable to any downstream task without task-specific fine-tuning. 
 
 ## Results 
 
@@ -15,6 +15,7 @@ This project explores xxx
 - [`HuBERT`](./HuBERT): Code to run HuBERT models
 - [`SVM`](./SVM):  Code to run SVM models
 - [`sep-CNN`](./sep-CNN): Xxx
+- [`GNN`](./GNN): Code to run GNN models (it's empty now, so need to ask Mayur)
 
 ## Experiments to-do list 
 
