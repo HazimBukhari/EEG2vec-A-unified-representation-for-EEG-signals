@@ -25,7 +25,7 @@ This project explores an end-to-end masked prediction, a self-supervised foundat
 
 The project is completed as a part of [CMU 11-785: Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S25/index.html).
 
-# ALL OTHER STUFF IS BELOW (PLS CHECK IF WE NEED IT)
+# ALL OTHER STUFF IS BELOW (pls check what's needed and either delete it, or transfer it)
 
 # TODO
 - [ ] Train code
