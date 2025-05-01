@@ -15,7 +15,7 @@ This project explores an end-to-end masked prediction, a self-supervised foundat
 - [`HuBERT`](./HuBERT): Code to run HuBERT models
 - [`SVM`](./SVM):  Code to run SVM models
 - [`sep-CNN`](./sep-CNN): Xxx
-- [`GNN`](./GNN): Code to run GNN models (it's empty now, so need to ask Mayur)
+- [`GNN`](./GNN): Code to run GNN models (we need to create this folder and put all Mayur's code)
 
 ## Experiments to-do list 
 
