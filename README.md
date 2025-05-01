@@ -1,6 +1,32 @@
-# EEG2VEC: a unified representation for EEG signals  
+# EEG2VEC: A unified representation for EEG signals  
 
-# TODO:  
+This project explores xxx 
+
+## Results 
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/1u8bEVWO1eJZF72DPtHYrFqi5dyHEDno1/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Final%20Report-blue?style=for-the-badge" alt="View Final Report">
+  </a>
+</p>
+
+## Codebase
+
+- [`HuBERT`](./HuBERT): Code to run HuBERT models
+- [`SVM`](./SVM):  Code to run SVM models
+- [`sep-CNN`](./sep-CNN): Xxx
+
+## Experiments to-do list 
+
+- [ ] Xxx
+
+## Acknowledgements
+
+The project is completed as a part of [CMU 11-785: Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/S25/index.html).
+
+# ALL OTHER STUFF IS BELOW (PLS CHECK IF WE NEED IT)
+
+# TODO
 - [ ] Train code
 - [ ] eval code
 - [ ] base model
